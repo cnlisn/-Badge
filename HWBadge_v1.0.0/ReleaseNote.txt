@@ -1,0 +1,8 @@
+id=com.huawei.android.launcher
+name=Badge SDK
+version=1.0.0
+AndroidVersion.ApiLevel=21
+release_date=2016-02-22
+description=Badge SDK is an interactive for developers who want to appear badge on the application icon.
+release_notes= 
+v1.0.0 the first release version
